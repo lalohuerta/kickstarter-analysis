@@ -7,3 +7,7 @@ Trending analysis kickstarters
 * 1 May
 * 2 Jun 
 * 3 July
+Final analysis: Some conclusions say that the three countries which you may invest in creating campaigns for theater plays between May and July are:
+1. USA
+2. Great Britain 
+3. Canada 
