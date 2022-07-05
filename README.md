@@ -1,3 +1,3 @@
 # An Analysis of Kickstarter Campaigns
-## kickstarter-analysis
-### Trending analysis kickstarters  
+kickstarter-analysis
+Trending analysis kickstarters  
