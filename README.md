@@ -33,6 +33,10 @@ Perform data analysis based on launch dates and funding goals for all the plays.
 
 ### Analysis of Outcomes Based on Launch Date
 
+	* 1st you need to (Year) by Data created conversion 
+	
+	[![Captura-de-Pantalla-2022-07-07-a-la-s-14-00-10.png](https://i.postimg.cc/GhG8jLyK/Captura-de-Pantalla-2022-07-07-a-la-s-14-00-10.png)](https://postimg.cc/zVDGz1pH) 
+
 [![Theater-Outcomes-vs-Launch.png](https://i.postimg.cc/X7MstfWf/Theater-Outcomes-vs-Launch.png)](https://postimg.cc/s1cPhZvx)
 
 ### Analysis of Outcomes Based on Goals
