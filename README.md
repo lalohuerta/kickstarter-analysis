@@ -71,7 +71,7 @@ Finally you need to create a line chart titled "Outcomes Based on Goal" so you c
 
 ### Challenges and Difficulties Encountered
 
-Chart "Outcome based on goal" is not the same as the online challenge. Had a jumpstart session on Thursday but appearently was not my session, 	meanwhile I will let the chart as it appeared, on Friday I will have a tutoring session and I will ask there. 
+Chart "Outcome based on goal" is not the same as the online challenge. Had a jumpstart session on Thursday but appearently was not my session, 	meanwhile I will let the chart as it appeared, on Friday I will have a tutoring session and I will ask there. The results of this written report are based on the information obtained whithin this calculations.
 
 ## Results
 
