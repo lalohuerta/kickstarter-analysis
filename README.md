@@ -61,6 +61,8 @@ First you need to create a new sheet and label it "Outcomes Based on Goals.", cr
 - Percentage Failed
 - Percentage Canceled
 
+Second, in the goal column create ranges since less than 1,000 to 50,000 or more. Intervals each 5,000, you will use COUNTIFS() function to populate the Outcome, ranges created before and "plays" in "Subcategory" column in the kickstarter shee, then calculate the Outcome percentage. 
+
 [![Outcomes-vs-Goals.png](https://i.postimg.cc/xjs0RdSV/Outcomes-vs-Goals.png)](https://postimg.cc/pyFbVRTs)
 
 ### Challenges and Difficulties Encountered
