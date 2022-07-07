@@ -17,6 +17,8 @@ Final analysis: Some conclusions say that the three countries which you may inve
 3. Canada 
 
 
+
+
 # Chalenge Week 01 
 
 # Kickstarting with Excel
@@ -25,7 +27,7 @@ Final analysis: Some conclusions say that the three countries which you may inve
 
 ### Purpose
 
-	* Perform data analysis based on launch dates and funding goals for all the plays. 
+Perform data analysis based on launch dates and funding goals for all the plays. 
 
 ## Analysis and Challenges
 
