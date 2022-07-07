@@ -33,9 +33,17 @@ Perform data analysis based on launch dates and funding goals for all the plays.
 
 ### Analysis of Outcomes Based on Launch Date
 
-	* 1st you need to (Year) by Data created conversion 
-	
-	[![Captura-de-Pantalla-2022-07-07-a-la-s-14-00-10.png](https://i.postimg.cc/GhG8jLyK/Captura-de-Pantalla-2022-07-07-a-la-s-14-00-10.png)](https://postimg.cc/zVDGz1pH) 
+To complete this analysis you must follow the next steps:
+
+- First you need to (Year) by Data created conversion 
+
+[![Captura-de-Pantalla-2022-07-07-a-la-s-14-00-10.png](https://i.postimg.cc/GhG8jLyK/Captura-de-Pantalla-2022-07-07-a-la-s-14-00-10.png)](https://postimg.cc/zVDGz1pH)
+
+- Second you have to add a pivotChart in Insert tab. Filtered by Parent category & Years, in Columns you need to see Outcomes, Rows with Data created conversion and Values with the count of outcomes. You want to see this information by month 
+
+[![Captura-de-Pantalla-2022-07-07-a-la-s-14-01-44.png](https://i.postimg.cc/YqP4k4wt/Captura-de-Pantalla-2022-07-07-a-la-s-14-01-44.png)](https://postimg.cc/PPmfQ5x7)
+
+
 
 [![Theater-Outcomes-vs-Launch.png](https://i.postimg.cc/X7MstfWf/Theater-Outcomes-vs-Launch.png)](https://postimg.cc/s1cPhZvx)
 
@@ -45,7 +53,7 @@ Perform data analysis based on launch dates and funding goals for all the plays.
 
 ### Challenges and Difficulties Encountered
 
-Chart "Outcome based on goal" is not the same as the online challenge. Had a jumpstart session on Thursday but appearently was not my session, 	meanwhile i will let the chart as it appeared, on Friday i will have a tutoring session and I will ask there. 
+Chart "Outcome based on goal" is not the same as the online challenge. Had a jumpstart session on Thursday but appearently was not my session, 	meanwhile I will let the chart as it appeared, on Friday I will have a tutoring session and I will ask there. 
 
 ## Results
 
