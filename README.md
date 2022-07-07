@@ -49,6 +49,18 @@ Finally you need to create a PivotChart to visualize the relation between Outcom
 
 ### Analysis of Outcomes Based on Goals
 
+To complete this analysis you must follow the next steps:
+
+First you need to create a new sheet and label it "Outcomes Based on Goals.", create the following columns to hold the data:
+- Goal
+- Number Successful
+- Number Failed
+- Number Canceled
+- Total Projects
+- Percentage Successful
+- Percentage Failed
+- Percentage Canceled
+
 [![Outcomes-vs-Goals.png](https://i.postimg.cc/xjs0RdSV/Outcomes-vs-Goals.png)](https://postimg.cc/pyFbVRTs)
 
 ### Challenges and Difficulties Encountered
