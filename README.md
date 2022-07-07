@@ -41,7 +41,7 @@ Final analysis: Some conclusions say that the three countries which you may inve
 
 ## Challenges and Difficulties Encountered
 
-	Chart "Outcome based on goal" is not the same as the online class/challenge. Had to check with online session.
+	* Chart "Outcome based on goal" is not the same as the online class/challenge. Had to check with online session.
 
 ## Results
 
