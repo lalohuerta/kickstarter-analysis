@@ -39,7 +39,7 @@ To complete this analysis you must follow the next steps:
 
 [![Captura-de-Pantalla-2022-07-07-a-la-s-14-00-10.png](https://i.postimg.cc/GhG8jLyK/Captura-de-Pantalla-2022-07-07-a-la-s-14-00-10.png)](https://postimg.cc/zVDGz1pH)
 
-- Second you have to add a pivotChart in Insert tab. Filtered by Parent category & Years, in Columns you need to see Outcomes, Rows with Data created conversion and Values with the count of outcomes. You want to see this information by month 
+- Second you have to add a pivotTable in Insert tab. Filtered by Parent category & Years, in Columns you need to see Outcomes, Rows with Data created conversion and Values with the count of outcomes. You want to see this information by month 
 
 [![Captura-de-Pantalla-2022-07-07-a-la-s-14-01-44.png](https://i.postimg.cc/YqP4k4wt/Captura-de-Pantalla-2022-07-07-a-la-s-14-01-44.png)](https://postimg.cc/PPmfQ5x7)
 
