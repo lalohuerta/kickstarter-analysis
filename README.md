@@ -25,21 +25,21 @@ Final analysis: Some conclusions say that the three countries which you may inve
 
 ### Purpose
 
-	*Perform data analysis based on launch dates and funding goals for all the plays. 
+	* Perform data analysis based on launch dates and funding goals for all the plays. 
 
 ## Analysis and Challenges
 
 
 
-### Analysis of Outcomes Based on Launch Date
+## Analysis of Outcomes Based on Launch Date
 
 [![Theater-Outcomes-vs-Launch.png](https://i.postimg.cc/X7MstfWf/Theater-Outcomes-vs-Launch.png)](https://postimg.cc/s1cPhZvx)
 
-### Analysis of Outcomes Based on Goals
+## Analysis of Outcomes Based on Goals
 
 [![Outcomes-vs-Goals.png](https://i.postimg.cc/xjs0RdSV/Outcomes-vs-Goals.png)](https://postimg.cc/pyFbVRTs)
 
-### Challenges and Difficulties Encountered
+## Challenges and Difficulties Encountered
 
 	Chart "Outcome based on goal" is not the same as the online class/challenge. Had to check with online session.
 
