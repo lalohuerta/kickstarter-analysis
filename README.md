@@ -41,7 +41,7 @@ Perform data analysis based on launch dates and funding goals for all the plays.
 
 ### Challenges and Difficulties Encountered
 
-Chart "Outcome based on goal" is not the same as the online challenge. Had a jumpstart session on Thursday but appearently was not my session, 	meanwhile i will let the chart as it appeared, on Friday i will have a tutoring session and i will ask there. 
+Chart "Outcome based on goal" is not the same as the online challenge. Had a jumpstart session on Thursday but appearently was not my session, 	meanwhile i will let the chart as it appeared, on Friday i will have a tutoring session and I will ask there. 
 
 ## Results
 
