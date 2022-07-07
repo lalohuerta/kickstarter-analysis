@@ -33,7 +33,7 @@ Final analysis: Some conclusions say that the three countries which you may inve
 
 ### Analysis of Outcomes Based on Launch Date
 
-	[![Theater-Outcomes-vs-Launch.png](https://i.postimg.cc/X7MstfWf/Theater-Outcomes-vs-Launch.png)](https://postimg.cc/s1cPhZvx)
+[![Theater-Outcomes-vs-Launch.png](https://i.postimg.cc/X7MstfWf/Theater-Outcomes-vs-Launch.png)](https://postimg.cc/s1cPhZvx)
 
 ### Analysis of Outcomes Based on Goals
 
