@@ -37,7 +37,7 @@ Final analysis: Some conclusions say that the three countries which you may inve
 
 ### Analysis of Outcomes Based on Goals
 
-	*
+[![Outcomes-vs-Goals.png](https://i.postimg.cc/xjs0RdSV/Outcomes-vs-Goals.png)](https://postimg.cc/pyFbVRTs)
 
 ### Challenges and Difficulties Encountered
 
