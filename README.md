@@ -65,6 +65,8 @@ Second, in the goal column create ranges since less than 1,000 to 50,000 or more
 
 [![Captura-de-Pantalla-2022-07-07-a-la-s-16-12-56.png](https://i.postimg.cc/g2jZZnhT/Captura-de-Pantalla-2022-07-07-a-la-s-16-12-56.png)](https://postimg.cc/G40t03qF)
 
+Finally you need to create a line chart titled "Outcomes Based on Goal" so you can see the relation between the goal range and the percentage of each outcome. 
+
 [![Outcomes-vs-Goals.png](https://i.postimg.cc/xjs0RdSV/Outcomes-vs-Goals.png)](https://postimg.cc/pyFbVRTs)
 
 ### Challenges and Difficulties Encountered
