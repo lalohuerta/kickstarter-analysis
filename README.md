@@ -43,7 +43,7 @@ To complete this analysis you must follow the next steps:
 
 [![Captura-de-Pantalla-2022-07-07-a-la-s-14-01-44.png](https://i.postimg.cc/YqP4k4wt/Captura-de-Pantalla-2022-07-07-a-la-s-14-01-44.png)](https://postimg.cc/PPmfQ5x7)
 
-Finally you need to create a PivotChart to visualize the relation between Outcomes & Date created conversion (Months), to do this add a PivotChart in PivotTable Analize tab, select line chart in the design Tab by clicking Change Chart Type. Add a title for the chart "Theater Outcomes Vs Launch"
+Finally you need to create a PivotChart to visualize the relation between Outcomes & Date created conversion (Months), to do this add a PivotChart in PivotTable Analize tab, select line chart in the design Tab by clicking Change Chart Type. Add a title for the chart "Theater Outcomes Based on Launch Date"
 
 [![Theater-Outcomes-vs-Launch.png](https://i.postimg.cc/X7MstfWf/Theater-Outcomes-vs-Launch.png)](https://postimg.cc/s1cPhZvx)
 
