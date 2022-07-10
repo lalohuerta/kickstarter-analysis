@@ -63,15 +63,15 @@ First you need to create a new sheet and label it "Outcomes Based on Goals.", cr
 
 Second, in the goal column create ranges since less than 1,000 to 50,000 or more. Intervals each 5,000, you will use COUNTIFS() function to populate the Outcome, ranges created before and "plays" in "Subcategory" column in the kickstarter sheet, then calculate the Outcome percentage.
 
-[![Captura-de-Pantalla-2022-07-07-a-la-s-16-12-56.png](https://i.postimg.cc/g2jZZnhT/Captura-de-Pantalla-2022-07-07-a-la-s-16-12-56.png)](https://postimg.cc/G40t03qF)
+[![Captura-de-Pantalla-2022-07-09-a-la-s-21-10-13.png](https://i.postimg.cc/T3wprCZv/Captura-de-Pantalla-2022-07-09-a-la-s-21-10-13.png)](https://postimg.cc/gnCzpqzg)
 
 Finally you need to create a line chart titled "Outcomes Based on Goal" so you can see the relation between the goal range and the percentage of each outcome. 
 
-[![Outcomes-vs-Goals.png](https://i.postimg.cc/xjs0RdSV/Outcomes-vs-Goals.png)](https://postimg.cc/pyFbVRTs)
+[![Outcomes-vs-Goals.png](https://i.postimg.cc/vZcZ1DVQ/Outcomes-vs-Goals.png)](https://postimg.cc/rD2k3Vjb)
 
 ### Challenges and Difficulties Encountered
 
-Chart "Outcome based on goal" is not the same as the online challenge. Had a jumpstart session on Thursday but appearently was not my session, 	meanwhile I will let the chart as it appeared, on Friday I will have a tutoring session and I will ask there. The results of this written report are based on the information obtained whithin this calculations.
+In the Challenge I uploaded on Thursday 7th of July the chart "Outcome based on goal" was not the same as the online challenge. Had a jumpstart session same Thursday morning but appearently was not my session, so I let the chart as it appeared, on Friday I had my first tutoring session and I asked there. My tutor told me to double check the file I was working with because for some reason the values in that file were not the same as the file in CANVAS, so I downloaded the file again and copy the values in my file. Whit this action the chart "Outcome based on goal" changed and appeared as shown in the CANVAS challenge. I never known what happened with the file I was working with and why the values changed.                                                 
 
 ## Results
 
@@ -82,7 +82,7 @@ Chart "Outcome based on goal" is not the same as the online challenge. Had a jum
 
 - What can you conclude about the Outcomes based on Goals?
 
-	* The more you invest on a Theater play the more probable of successful percentage you have.
+	* In the chart you can see a tendency related to the fact that the more you invest in a play, the lower the probability of being successful is.
 
 - What are some limitations of this dataset?
 
