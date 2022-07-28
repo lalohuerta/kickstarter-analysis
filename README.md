@@ -37,7 +37,7 @@ To complete this analysis you must follow the next steps:
 
 - First you need to (Year) by Data created conversion 
 
-[![Captura-de-Pantalla-2022-07-07-a-la-s-14-00-10.png](https://i.postimg.cc/GhG8jLyK/Captura-de-Pantalla-2022-07-07-a-la-s-14-00-10.png)](https://postimg.cc/zVDGz1pH)
+<img src="Resources/MoreFailedUS.png" width="500">
 
 - Second you have to add a pivotTable in Insert tab. Filtered by Parent category & Years, in Columns you need to see Outcomes, Rows with Data created conversion and Values with the count of outcomes. You want to see this information by month 
 
